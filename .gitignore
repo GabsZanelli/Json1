@@ -1,4 +1,3 @@
-package br.com;
 
 import java.io.FileNotFoundException;
 import.java.ioFileReader;
